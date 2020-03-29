@@ -1,0 +1,17 @@
+
+Step 1 
+Project has "not" been done using Maven due to issues in network and downloading jars 
+Uploaded all required libraries in 3 zip folders lib1,lib2 and lib3 Unzip from these.
+
+Step 2 
+Unzip main project web-customer-tracker 
+and combine all libraries extracted in step 1 into web-customer-tracker\WebContent\WEB-INF\lib folders
+
+Step 3 
+create schema in mysql with user springstudent and password springstudent.
+then run the attached SQL.txt 
+
+Step 4 
+Import the project in eclipse make sure to have all the libaries in reference libraries
+
+Have attached screenshot for references of working code. 
